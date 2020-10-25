@@ -1,0 +1,2 @@
+q=int(input())
+print(sum(list(map(lambda x: int(x) ,str(input()).split()))))
